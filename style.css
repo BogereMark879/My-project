@@ -1,0 +1,35 @@
+ol{
+    display: flex;
+    list-style-type: none;
+    padding: 10px 0 10px 50px;
+    color: white;
+    font-size: medium;
+    width: max-content;
+  
+
+}
+li{
+padding-right: 20px;
+background-color: red;
+}
+table{
+    font-weight: bolder;
+    -o-table-baseline: inherit;
+ color: purple;
+ text-decoration-thickness: inherit;
+ 
+}
+th{
+    color: green;
+    font-size: 30px;
+    background-color: yellow;
+    font-style: italic;
+    border: lightcoral;
+}
+td{
+    column-width: initial;
+    font-size-adjust: initial;
+    color: rgb(0, 67, 252);
+    border: lightblue;
+    background-color: gold;
+}
